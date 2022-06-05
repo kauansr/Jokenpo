@@ -1,5 +1,5 @@
 # Jokenpo
-Joguinho de pedra, papel e tesoura em Python
+Joguinho de pedra, papel e tesoura em Python pelo prompt de comando
 
 ## Como rodar?
 - Você precisa ter o python instalado e algumas bibliotecas que geralmente vem junto do python então não e muito necessario baixar
